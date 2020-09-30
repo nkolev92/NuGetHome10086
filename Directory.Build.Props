@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <RestorePackagesPath>..\globalPackagesFolder</RestorePackagesPath>
+    <RestoreSources>..\nupkgs;https://api.nuget.org/v3/index.json</RestoreSources>
+    <PackageOutputPath>..\nupkgs</PackageOutputPath>
+  </PropertyGroup>
+</Project>
