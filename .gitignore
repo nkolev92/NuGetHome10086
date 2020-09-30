@@ -19,6 +19,7 @@ cli1.0.4/
 packages/
 .nuget/nuget.exe
 */.nuget/
+globalPackagesFolder/
 
 # ignore nuget.exe for e2e tests
 test/EndToEnd/nuget.exe
